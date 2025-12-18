@@ -28,11 +28,7 @@ Currently working at **BRX Consultant** and continuously expanding my knowledge 
 ![VSCode](https://img.shields.io/badge/VSCode-89dceb?style=for-the-badge&logo=visual-studio-code&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-f5c2e7?style=for-the-badge&logo=linux&logoColor=black)
 
----
 
-## 📊 GitHub Stats
+### Most Used Languages
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jujbraga&theme=catppuccin_latte&layout=donut" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jujbraga&theme=catppuccin_latte&show_icons=true&include_all_commits=true&rank_icon=percentile" />
-</div>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jujbraga&layout=donut&hide_title=true" />
